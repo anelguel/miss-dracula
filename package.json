@@ -1,35 +1,28 @@
 {
-	"name": "theme-dracula",
-	"version": "2.24.0",
-	"displayName": "Dracula Official",
-	"homepage": "https://draculatheme.com/",
-	"description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
-	"publisher": "dracula-theme",
+	"name": "miss-dracula",
+	"version": "2.24.1",
+	"displayName": "Miss Dracula",
+	"homepage": "https://github.com/anelguel/miss-dracula",
+	"description": "Miss Dracula - a Dracula Official fork, with a purple and magenta twist",
+	"publisher": "anelguel",
 	"license": "MIT",
 	"scripts": {
 		"build": "node ./scripts/build.js",
 		"lint": "node ./scripts/lint.js",
-		"package": "vsce package -o ./bin/dracula.vsix",
+		"package": "vsce package -o ./bin/miss-dracula.vsix",
 		"vscode:prepublish": "npm run build",
 		"vsce-publish": "vsce publish"
 	},
 	"maintainers": [
-		"Derek P Sifford <dereksifford@gmail.com>"
+		"Anel Guel <anelguel@gmail.com>"
 	],
-	"contributors": [
-		"Krzysztof Wisznarewski",
-		"Daniel Ramos",
-		"Eric Jackson",
-		"Elliott Pogue",
-		"Ajit Singh",
-		"Teddy Bradford"
-	],
+	"contributors": [],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dracula/visual-studio-code.git"
+		"url": "https://github.com/anelguel/miss-dracula"
 	},
 	"bugs": {
-		"url": "https://github.com/dracula/visual-studio-code/issues"
+		"url": "https://github.com/anelguel/miss-dracula/issues"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -51,14 +44,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dracula",
+				"label": "Miss Dracula",
 				"uiTheme": "vs-dark",
-				"path": "./theme/dracula.json"
-			},
-			{
-				"label": "Dracula Soft",
-				"uiTheme": "vs-dark",
-				"path": "./theme/dracula-soft.json"
+				"path": "./theme/miss-dracula.json"
 			}
 		]
 	},
@@ -70,7 +58,7 @@
 	},
 	"__metadata": {
 		"id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-		"publisherDisplayName": "Dracula Theme",
+		"publisherDisplayName": "Anel Guel",
 		"publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
 	}
 }
