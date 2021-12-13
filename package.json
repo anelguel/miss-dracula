@@ -1,6 +1,6 @@
 {
 	"name": "miss-dracula",
-	"version": "2.24.1",
+	"version": "2.24.2",
 	"displayName": "Miss Dracula",
 	"homepage": "https://github.com/anelguel/miss-dracula",
 	"description": "Miss Dracula - a Dracula Official fork, with a purple and magenta twist",
@@ -31,6 +31,9 @@
 		"Themes"
 	],
 	"keywords": [
+		"miss-dracula",
+		"purple-theme",
+		"pink-theme",
 		"dracula",
 		"dark",
 		"theme",
@@ -38,7 +41,7 @@
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#3c4557",
+		"color": "#261F23",
 		"theme": "dark"
 	},
 	"contributes": {
@@ -46,7 +49,7 @@
 			{
 				"label": "Miss Dracula",
 				"uiTheme": "vs-dark",
-				"path": "./theme/miss-dracula.json"
+				"path": "./theme/dracula.json"
 			}
 		]
 	},
@@ -55,9 +58,5 @@
 		"prettier": "^2.3.2",
 		"tinycolor2": "^1.4.2",
 		"vsce": "^1.96.1"
-	},
-	"__metadata": {
-		"publisherDisplayName": "Anel Guel",
-		"publisherId": "AnelGuel"
 	}
 }

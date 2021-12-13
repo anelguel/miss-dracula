@@ -14,11 +14,8 @@ A fork of [Dracula Official](https://github.com/dracula/visual-studio-code), wit
 ## Team
 Miss Dracula is maintained by [Anel Guel](https://github.com/anelguel).
 
-The [Dracula Official](https://github.com/dracula/visual-studio-code) theme is maintained by a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors). Special shout out to [Derek Sifford](https://github.com/dsifford)  for leading the vision of this project.
-
-## Contributing
-
-If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
+The [Dracula Official](https://github.com/dracula/visual-studio-code) theme is maintained by [Derek Sifford](https://github.com/dsifford) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors). 
+Special shout out to [Derek](https://github.com/dsifford) for not only leading the vision of this project, but also walking through the application architecture with me. Your work is appreciated.
 
 ## License
 
