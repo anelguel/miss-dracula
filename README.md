@@ -1,6 +1,6 @@
 # Miss Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
-A fork of [Dracula Official](https://github.com/dracula/visual-studio-code), with a purple and magenta twist.
+Miss Dracula is a beautiful theme editor for [Visual Studio Code](http://code.visualstudio.com). Think dark purple background, pink highlights, and other bright colors to keep your code cute and organized.
 
 ![](screenshot.png)
 
@@ -14,8 +14,8 @@ A fork of [Dracula Official](https://github.com/dracula/visual-studio-code), wit
 ## Team
 Miss Dracula is maintained by [Anel Guel](https://github.com/anelguel).
 
-The [Dracula Official](https://github.com/dracula/visual-studio-code) theme is maintained by [Derek Sifford](https://github.com/dsifford) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors). 
-Special shout out to [Derek](https://github.com/dsifford) for not only leading the vision of this project, but also walking through the application architecture with me. Your work is appreciated.
+Miss Dracula is a fork of [Dracula Official](https://github.com/dracula/visual-studio-code). Dracula Official is maintained by [Derek Sifford](https://github.com/dsifford) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors).
+
 
 ## License
 

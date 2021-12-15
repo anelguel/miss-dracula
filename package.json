@@ -1,9 +1,9 @@
 {
 	"name": "miss-dracula",
-	"version": "2.24.2",
+	"version": "2.24.3",
 	"displayName": "Miss Dracula",
 	"homepage": "https://github.com/anelguel/miss-dracula",
-	"description": "Miss Dracula - a Dracula Official fork, with a purple and magenta twist",
+	"description": "Miss Dracula is a beautiful theme editor for Visual Studio Code. Think dark purple background, pink highlights, and other bright colors to keep your code cute and organized.",
 	"publisher": "anelguel",
 	"license": "MIT",
 	"scripts": {
@@ -31,17 +31,32 @@
 		"Themes"
 	],
 	"keywords": [
-		"miss-dracula",
-		"purple-theme",
-		"pink-theme",
-		"dracula",
-		"dark",
 		"theme",
-		"color-theme"
+		"editor",
+		"code",
+		"color",
+		"dark",
+		"miss dracula",
+		"miss-dracula",
+		"dracula",
+		"purple",
+		"pink",
+		"colored theme",
+		"theme editor",
+		"code editor",
+		"change colors",
+		"woman",
+		"feminine",
+		"girly",
+		"women of color who code",
+		"women who code",
+		"girls who code",
+		"women in tech",
+		"latinas in tech"
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#261F23",
+		"color": "#644E69",
 		"theme": "dark"
 	},
 	"contributes": {
