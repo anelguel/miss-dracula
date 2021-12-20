@@ -7,7 +7,7 @@ dracula:
     - &BG        '#261F23'
     - &FG        '#F8F2F7'
     - &SELECTION '#55435A'
-    - &COMMENT   '#EFECF4'
+    - &COMMENT   '#7F7382'
     - &CYAN      '#95DFF2'
     - &GREEN     '#74EB6F'
     - &ORANGE    '#FE995B'

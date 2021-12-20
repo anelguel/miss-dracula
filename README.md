@@ -12,7 +12,7 @@ Miss Dracula is a beautiful theme editor for [Visual Studio Code](http://code.vi
 4.  Select it or press Enter to install
 
 ## Team
-Miss Dracula is maintained by [Anel Guel](https://github.com/anelguel).
+Miss Dracula is maintained by [Anel Guel](https://anelguel.com/about/). You can connect with me via [GitHub](https://github.com/anelguel), [LinkedIn](https://www.linkedin.com/in/anelguel), or [Instagram](https://www.instagram.com/anelguel/).
 
 Miss Dracula is a fork of [Dracula Official](https://github.com/dracula/visual-studio-code). Dracula Official is maintained by [Derek Sifford](https://github.com/dsifford) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors).
 
